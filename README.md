@@ -16,7 +16,7 @@
 
 ## <picture><img src = "assets/images/aboutme.gif" width = 50px></picture> **About me**
 
-<picture> <img align="right" src="assets/images/coder.gif" width = 250px></picture>
+<picture> <img align="right" src="[assets/images/coder.gif](https://gifdb.com/images/high/animated-chock-coding-c78f6elj32sfoi8q.gif)" width = 250px></picture>
 
 <br>
 
