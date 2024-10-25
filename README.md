@@ -22,8 +22,7 @@
 
 - A Junior Software Engineer
 - A Computer Science Graduate
-- Playing Games at Spare Time
-- Currently learning Javascript
+- A Gamer (DotA most of the time)
 - Personal website [link](https://stephsaga.vercel.app/)
 
 <br><br>
