@@ -3,7 +3,7 @@
 ## Full-stack Software Engineer
 
 - 🌍  I'm based in Cebu City, Philippines.
-- ✉️  You can contact me at [stephensagarino123@gmail.com](mailto:stephensagarino123@gmail.com)
+- ✉️  You can contact me at [stephen@stsagarino.com](mailto:stephen@stsagarino.com)
 - 🤝  I'm open to collaborating on Interesting Projects
 - ⚡  I'm also a streamer and a gamer. Hit me up if you wanna play!
 
