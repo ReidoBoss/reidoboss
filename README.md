@@ -28,6 +28,11 @@ src="https://img.shields.io/github/followers/ReidoBoss?logo=github&style=for-the
 <table>
   <tr>
     <td>
+      <a href="https://github.com/rothgar/awesome-tuis">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=rothgar&repo=awesome-tuis&show_owner=true&theme=github_dark&hide_border=true" />
+      </a>
+    </td>
+    <td>
       <a href="https://github.com/ryohey/Zoomable">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=ryohey&repo=Zoomable&show_owner=true&theme=github_dark&hide_border=true" />
       </a>
