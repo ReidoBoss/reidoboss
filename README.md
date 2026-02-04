@@ -1,6 +1,6 @@
 # Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Stephen Sagarino Jr.
 
-## iOS Developer/Fullstack Software Engineer
+## iOS Developer/Fullstack Software Engineer/Firmware Engineer
 
 - 🌍  I'm based in Cebu City, Philippines.
 - ✉️  You can contact me at [stephen@stsagarino.com](mailto:stephen@stsagarino.com)
