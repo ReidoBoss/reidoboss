@@ -1,43 +1,21 @@
-## iOS Developer/Fullstack Software Engineer/Firmware Engineer
-[stephen@stsagarino.com](mailto:stephen@stsagarino.com)
+### Stephen Sagarino
 
-### Socials
+iOS · Fullstack · Firmware
 
-<p align="left"><a href="https://www.linkedin.com/in/stephensagarino" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
+I build things for phones, browsers, terminals, and the metal underneath.
 
+---
 
-## Open-source Contributions  
+#### Projects
 
-<table>
-  <tr>
-    <td>
-      <a href="https://github.com/rothgar/awesome-tuis">
-        <img src="https://github-readme-stats-two-sepia.vercel.app/api/pin/?username=rothgar&repo=awesome-tuis&show_owner=true&theme=github_dark&hide_border=true" />
-      </a>
-    </td>
-    <td>
-      <a href="https://github.com/ryohey/Zoomable">
-        <img src="https://github-readme-stats-two-sepia.vercel.app/api/pin/?username=ryohey&repo=Zoomable&show_owner=true&theme=github_dark&hide_border=true" />
-      </a>
-    </td>
-  </tr>
-</table>
+- **[tttui](https://github.com/ReidoBoss/tttui)** — a typing test in the terminal, rewritten from Python to Rust.
+- **[SwiftNetworkKit](https://github.com/ReidoBoss/SwiftNetworkKit)** — a small Swift library for network communication.
 
+#### Contributions
 
+- **[rothgar/awesome-tuis](https://github.com/rothgar/awesome-tuis)** — a curated list of terminal user interfaces.
+- **[ryohey/Zoomable](https://github.com/ryohey/Zoomable)** — pinch, tap, and pan gestures for SwiftUI.
 
-## Open-source Projects  
+---
 
-<table>
-  <tr>
-    <td>
-      <a href="https://github.com/reidoboss/tttui">
-        <img src="https://github-readme-stats-two-sepia.vercel.app/api/pin/?username=reidoboss&repo=tttui&show_owner=true&theme=github_dark&hide_border=true" />
-      </a>
-    </td>
-    <td>
-      <a href="https://github.com/reidoboss/swiftnetworkkit">
-        <img src="https://github-readme-stats-two-sepia.vercel.app/api/pin/?username=reidoboss&repo=SwiftNetworkKit&show_owner=true&theme=github_dark&hide_border=true" />
-      </a>
-    </td>
-  </tr>
-</table>
+[Email](mailto:stephen@stsagarino.com) · [LinkedIn](https://www.linkedin.com/in/stephensagarino)
