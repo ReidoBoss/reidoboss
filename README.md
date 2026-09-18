@@ -2,7 +2,7 @@
 
 # Stephen Sagarino
 
-**iOS&nbsp; · &nbsp;Fullstack&nbsp; · &nbsp;Firmware**
+**iOS&nbsp; · &nbsp;Android&nbsp; · &nbsp;Fullstack&nbsp; · &nbsp;Firmware**
 
 Building for phones, browsers, terminals, and the metal underneath.
 
