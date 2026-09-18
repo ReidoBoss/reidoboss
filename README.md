@@ -6,7 +6,7 @@
 
 Building for phones, browsers, terminals, and the metal underneath.
 
-<kbd>Swift</kbd> <kbd>Rust</kbd> <kbd>TypeScript</kbd> <kbd>C</kbd> <kbd>C++</kbd> <kbd>Python</kbd>
+<kbd>Swift</kbd> <kbd>Kotlin</kbd> <kbd>Rust</kbd> <kbd>C</kbd> <kbd>C++</kbd> <kbd>TypeScript</kbd> <kbd>Scala</kbd> <kbd>Java</kbd> <kbd>Python</kbd>
 
 </div>
 
