@@ -14,7 +14,7 @@ Building for phones, browsers, terminals, and the metal underneath.
 
 ### Projects
 
-**[tttui](https://github.com/ReidoBoss/tttui)**<br>
+**[tttui](https://github.com/ReidoBoss/tttui)**&nbsp; · &nbsp;★ 123<br>
 A typing test in the terminal — rewritten from Python to Rust.
 
 **[SwiftNetworkKit](https://github.com/ReidoBoss/SwiftNetworkKit)**<br>
@@ -22,10 +22,10 @@ A small Swift library for network communication.
 
 ### Contributions
 
-**[orval-labs/orval](https://github.com/orval-labs/orval)**<br>
+**[orval-labs/orval](https://github.com/orval-labs/orval)**&nbsp; · &nbsp;★ 6.4k<br>
 A code generator for TypeScript clients and mocks from an OpenAPI spec.
 
-**[rothgar/awesome-tuis](https://github.com/rothgar/awesome-tuis)**<br>
+**[rothgar/awesome-tuis](https://github.com/rothgar/awesome-tuis)**&nbsp; · &nbsp;★ 20.6k<br>
 A curated list of terminal user interfaces.
 
 **[ryohey/Zoomable](https://github.com/ryohey/Zoomable)**<br>
