@@ -22,6 +22,9 @@ A small Swift library for network communication.
 
 ### Contributions
 
+**[orval-labs/orval](https://github.com/orval-labs/orval)**<br>
+A code generator for TypeScript clients and mocks from an OpenAPI spec.
+
 **[rothgar/awesome-tuis](https://github.com/rothgar/awesome-tuis)**<br>
 A curated list of terminal user interfaces.
 
