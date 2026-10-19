@@ -23,6 +23,8 @@ Building for phones, browsers, terminals, and the metal underneath.
 
 | Repo | What it is | Stars |
 | :--- | :--- | :--- |
+| **[penpot/penpot](https://github.com/penpot/penpot)** | The open-source design and prototyping platform. | ![stars](https://img.shields.io/github/stars/penpot/penpot?style=flat&label=%E2%98%85&labelColor=555&color=555) |
+| **[vueuse/vueuse](https://github.com/vueuse/vueuse)** | A collection of essential composition utilities for Vue. | ![stars](https://img.shields.io/github/stars/vueuse/vueuse?style=flat&label=%E2%98%85&labelColor=555&color=555) |
 | **[orval-labs/orval](https://github.com/orval-labs/orval)** | A code generator for TypeScript clients and mocks from an OpenAPI spec. | ![stars](https://img.shields.io/github/stars/orval-labs/orval?style=flat&label=%E2%98%85&labelColor=555&color=555) |
 | **[rothgar/awesome-tuis](https://github.com/rothgar/awesome-tuis)** | A curated list of terminal user interfaces. | ![stars](https://img.shields.io/github/stars/rothgar/awesome-tuis?style=flat&label=%E2%98%85&labelColor=555&color=555) |
 | **[ryohey/Zoomable](https://github.com/ryohey/Zoomable)** | Pinch, tap, and pan gestures for SwiftUI. | ![stars](https://img.shields.io/github/stars/ryohey/Zoomable?style=flat&label=%E2%98%85&labelColor=555&color=555) |
