@@ -2,9 +2,9 @@
 
 # Stephen Sagarino
 
-**iOS&nbsp; · &nbsp;Android&nbsp; · &nbsp;Fullstack&nbsp; · &nbsp;Firmware**
+**Software Engineer&nbsp; · &nbsp;Tech Lead&nbsp; · &nbsp;Backend &amp; Distributed Systems**
 
-Building for phones, browsers, terminals, and the metal underneath.
+Rust blockchains, real-time backends, and the tools around them.
 
 <kbd>Swift</kbd> <kbd>Kotlin</kbd> <kbd>Rust</kbd> <kbd>C</kbd> <kbd>C++</kbd> <kbd>TypeScript</kbd> <kbd>Scala</kbd> <kbd>Java</kbd> <kbd>Python</kbd>
 
@@ -17,6 +17,7 @@ Building for phones, browsers, terminals, and the metal underneath.
 | Repo | What it is | Stars |
 | :--- | :--- | :--- |
 | **[tttui](https://github.com/ReidoBoss/tttui)** | A typing test in the terminal — rewritten from Python to Rust. | ![stars](https://img.shields.io/github/stars/ReidoBoss/tttui?style=flat&label=%E2%98%85&labelColor=555&color=555) |
+| **[tetris-battle](https://github.com/ReidoBoss/tetris-battle)** | Terminal Tetris versus for up to 4 players over WebSocket, with zero dependencies. | ![stars](https://img.shields.io/github/stars/ReidoBoss/tetris-battle?style=flat&label=%E2%98%85&labelColor=555&color=555) |
 | **[SwiftNetworkKit](https://github.com/ReidoBoss/SwiftNetworkKit)** | A small Swift library for network communication. | ![stars](https://img.shields.io/github/stars/ReidoBoss/SwiftNetworkKit?style=flat&label=%E2%98%85&labelColor=555&color=555) |
 
 ### Contributions
